@@ -1,0 +1,6 @@
+{
+    "prompt": "A single, wildly massive, perfect, glowing red apple hanging from a small sapling. However, to produce this one perfect measurement of fruit, the tree branch holding it has violently snapped under the immense weight, and the entire trunk is completely hollowed out, rotting, dead, and incapable of supporting life. The scene is physically plausible but carries a deep sense of destructive contradiction. High-end fine art photography, somber lighting, no text, no charts. Style: Surreal",
+    "model": "Midjourney v6.1",
+    "paradox": "Goodhart's Law",
+    "visual_logic": "The single perfect apple (the optimized metric) successfully exists, but producing it has catastrophically shattered the tree itself (the underlying system), rendering the pursuit fatal."
+}

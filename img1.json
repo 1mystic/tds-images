@@ -1,7 +1,8 @@
 {
   "prompt": "A pristine medical IV blood transfusion bag hanging in a stark white clinical room. At the top of the bag, the blood is a bright, clear, healthy crimson. As the eye moves down the bag, the liquid smoothly gradients and transforms into a dark, gritty, toxic slurry suspended with thousands of jagged, microscopic colorful plastic shards settling heavily at the very bottom. No text, no labels, high-end editorial macro photography, emotional contrast. Style: Cinematic",
-  "model": "Midjourney v6.1",
+  "model": "DALL-E 3",
   "dataset_name": "Discovery and quantification of plastic particle pollution in human blood (Environment International)",
   "dataset_url": "https://doi.org/10.1016/j.envint.2022.107199",
   "insight": "The persistent, inescapable accumulation of microplastics in human blood as we age."
+
 }

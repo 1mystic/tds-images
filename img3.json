@@ -1,8 +1,9 @@
 {
-  "prompt": "A lone traveler wearing a conical hat iteratively stepping down the steepest slopes of a cascading sequence of mountain ravines, moving steadily toward the very bottom of the deepest, darkest valley floor. Authentic Edo period Japanese ukiyo-e woodblock print. Katsushika Hokusai compositional diagonals tracking descent, flat areas of unmodulated indigo and Prussian blue color, visible woodgrain texture (bokashi), stark figure-ground contrast, crisp black outlines. No modern elements, no text, strictly historical visual grammar. Style: Risograph",
-  "model": "Midjourney v6.1",
+  "prompt": "An authentic 19th-century Japanese ukiyo-e woodblock print in the aizuri-e style (Prussian blue palette). A lone Edo-period traveler carefully descending a steep, V-shaped mountain valley. The traveler is looking intently at the absolute lowest point of the valley. The traveler's path is composed of discrete, mathematically regular downward steps, symbolizing algorithmic iterations. The valley floor below features subtle, stylized topographical contour lines resembling a mathematical loss landscape. Composition uses strong diagonal thrusts and flat planes of unshaded color with bokashi (color gradation) in the sky. Authentic woodblock textures: visible woodgrain (baren marks) pressed into the flat sky, varied chisel-carved thickness in the black keyblock outlines, and slight color block misregistration (tiny white gaps between the blue and black ink). A traditional vertical red cartouche with mock kanji calligraphy in the upper right corner. Masterpiece, Katsushika Hokusai landscape style. --ar 16:9 --style raw",
+  "model": "Nano Banana 2",
   "concept": "Gradient Descent",
   "tradition_name": "Japanese Edo-period woodblock prints / ukiyo-e",
   "tradition_period": "1603–1868",
   "tradition_approach": "Katsushika Hokusai compositional diagonals tracking the steepest path of descent, flat Prussian blue zones, visible woodgrain bokashi gradients, and crisp black block outlines."
+
 }

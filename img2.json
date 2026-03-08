@@ -1,6 +1,6 @@
 {
-  "prompt": "A heavy, bespoke metal cast forged entirely around a single, highly irregular pile of sharp gravel stones. The rigid cast perfectly traces every meaningless, jagged crack and crevice of this specific random pile of rocks. The mold is so insanely precise that even a single grain of shifting sand makes it impossible to close or reuse elsewhere. Photorealistic, hyper-detailed craftsmanship, physical photography, stark lighting. No floating text, no diagrams, entirely real-world physical metaphor for extreme hyper-specialization. Style: Moody",
-  "model": "Midjourney v6.1",
+  "prompt": "Macro photography of a heavy, scarred wooden workbench. Scattered randomly across the wood is a chaotic, noisy arrangement of brass nails. A thin, flexible strip of pale wood (a boatbuilder's spline) has been forced to violently zigzag, buckle, and bend at extreme, unnatural angles by heavy cast-iron clamps so that its edge physically touches absolutely every single brass nail. The wood looks stressed and strained. Next to it, an elegant, smoothly sweeping curve is lightly etched into the wood, ignoring the scattered nails entirely. Cinematic workshop lighting, photorealistic, shallow depth of field, 8k resolution. --style raw --v 6.0",
+  "model": "Midjourney v6.0",
   "concept": "Overfitting",
-  "metaphor": "A rigid, immovable metal cast expertly tailored to a random pile of gravel, capturing every useless noise imperfection, rendering it permanently incapable of fitting any other object."
+  "metaphor": "A physical wooden spline violently clamped to intersect every randomly scattered brass nail represents an algorithm memorizing noisy training data, completely losing the ability to generalize."
 }
